@@ -38,7 +38,7 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 100px) {
   .App-link {
     color: #cf202e;
   }
